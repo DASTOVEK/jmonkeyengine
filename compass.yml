@@ -1,0 +1,14 @@
+name: jmonkeyengine
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/372fbe65-602e-42f4-b212-9c5c80a9fb2e
+description: A complete 3-D game development suite written in Java.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:java
+  - source:github
+customFields: null
